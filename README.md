@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently learn about data science by joining some intensive bootcamp.<br>interest in data-culture field like doing data orchestrating, data preprocesing , and also some doing deeplearning stuff.
+Data-Orchestator.<br>interest in data-culture field like doing data orchestrating, data preprocesing , and also some doing deeplearning stuff.
 
 
 ## 🌐 Socials:
